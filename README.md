@@ -2,7 +2,7 @@
 
 ### How to run it
 
-`git clone git@github.com:3018diao/Video-app-webgui.git`
+`git clone git@github.com:3018diao/car2x_unit.git`
 
 `cd car2x_unit`
 
